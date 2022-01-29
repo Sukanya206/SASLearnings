@@ -13,4 +13,3 @@ Steps followed
 6) bar chart
 
 ---
-refer to projectban130-results.html for results
